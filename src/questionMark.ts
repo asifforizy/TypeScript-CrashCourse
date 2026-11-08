@@ -36,6 +36,8 @@ console.log(userAge); // 18
 
 
 
+
+
 // Optional Chaining
 
 type User = {
@@ -61,3 +63,10 @@ let result4 = age2 ?? 18;
 
 console.log(result3); // 18
 console.log(result4); // 0
+
+
+
+
+
+
+
